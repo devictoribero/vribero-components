@@ -2062,9 +2062,9 @@ path-is-absolute@^1.0.0, path-is-absolute@^1.0.1:
   integrity sha1-F0uSaHNVNP+8es5r9TpanhtcX18=
 
 path-parse@^1.0.5:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 pify@^3.0.0:
   version "3.0.0"
@@ -2536,10 +2536,12 @@ v8flags@^2.1.1:
   dependencies:
     user-home "^1.1.1"
 
-vribero-component--navigation-link--themed@^1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/vribero-component--navigation-link--themed/-/vribero-component--navigation-link--themed-1.0.12.tgz#e4560dcfba425f54fa9882d15293ee99e4ae2b2b"
-  integrity sha512-6IzRoPoelKbgX86v5qbqoKO7uoHUyZtiqtWlIIy1XMBumC4ATC9E+WVEQrKkik3tJT9G2e/Un6bQppic4A35TA==
+vribero-component--navigation-link--themed@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/vribero-component--navigation-link--themed/-/vribero-component--navigation-link--themed-3.1.0.tgz#0a67955ea8057bdd46a0e3348c872f00e62acf56"
+  integrity sha512-nbo4fI2/tXab21r4ROc3GhE7FhqGm9NWbdFFU6WDeCkr89apE4PG2HCPgT/fFbbIML5zeZ++gJ7w+g+tHZuQFQ==
+  dependencies:
+    "@emotion/core" "^10.0.4"
 
 wide-align@^1.1.0:
   version "1.1.3"
